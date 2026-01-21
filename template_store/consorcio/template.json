@@ -1,0 +1,307 @@
+{
+  "template_id": "consorcio",
+  "name": "consorcio",
+  "vendor": "consorcio",
+  "pdf": {
+    "filename": "form.pdf",
+    "marked_filename": "form_marked.pdf"
+  },
+  "markers": [
+    "<<pn_l>>",
+    "<<pn_r>>",
+    "<<pr_l>>",
+    "<<pr_r>>",
+    "<<dg_l>>",
+    "<<dg_r>>",
+    "<<tr_l>>",
+    "<<tr_r>>",
+    "<<fa_l>>",
+    "<<fa_r>>",
+    "<<fd_l>>",
+    "<<fd_r>>",
+    "<<mdn_l>>",
+    "<<mdn_r>>",
+    "<<mde_l>>",
+    "<<mde_r>>",
+    "<<mdr_l>>",
+    "<<mdr_r>>",
+    "<<sf>>"
+  ],
+  "anchors": {
+    "<<pn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 14.184457778930664,
+        "y0": 178.92015075683594,
+        "x1": 52.503929138183594,
+        "y1": 189.087158203125
+      }
+    ],
+    "<<pn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 365.6176452636719,
+        "y0": 177.861083984375,
+        "x1": 405.14697265625,
+        "y1": 188.02809143066406
+      }
+    ],
+    "<<dg_l>>": [
+      {
+        "page_index": 0,
+        "x0": 12.068024635314941,
+        "y0": 205.92628479003906,
+        "x1": 49.82831573486328,
+        "y1": 216.09329223632812
+      }
+    ],
+    "<<dg_r>>": [
+      {
+        "page_index": 0,
+        "x0": 364.5602722167969,
+        "y0": 207.51487731933594,
+        "x1": 403.5304260253906,
+        "y1": 217.681884765625
+      }
+    ],
+    "<<tr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 12.073319435119629,
+        "y0": 234.52101135253906,
+        "x1": 46.651336669921875,
+        "y1": 244.68801879882812
+      }
+    ],
+    "<<tr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 560.916015625,
+        "y0": 235.050537109375,
+        "x1": 596.7039794921875,
+        "y1": 245.21754455566406
+      }
+    ],
+    "<<fa_l>>": [
+      {
+        "page_index": 0,
+        "x0": -1.1531169414520264,
+        "y0": 294.88763427734375,
+        "x1": 34.46193313598633,
+        "y1": 305.0546569824219
+      }
+    ],
+    "<<fa_r>>": [
+      {
+        "page_index": 0,
+        "x0": 92.52510833740234,
+        "y0": 303.3601379394531,
+        "x1": 129.35003662109375,
+        "y1": 313.52716064453125
+      }
+    ],
+    "<<fd_l>>": [
+      {
+        "page_index": 0,
+        "x0": 478.351806640625,
+        "y0": 205.39674377441406,
+        "x1": 514.4345703125,
+        "y1": 215.56375122070312
+      }
+    ],
+    "<<fd_r>>": [
+      {
+        "page_index": 0,
+        "x0": 568.3339233398438,
+        "y0": 205.92628479003906,
+        "x1": 605.6265869140625,
+        "y1": 216.09329223632812
+      }
+    ],
+    "<<mdn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 2.550429344177246,
+        "y0": 264.1747741699219,
+        "x1": 48.983184814453125,
+        "y1": 274.341796875
+      }
+    ],
+    "<<mdn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 240.18719482421875,
+        "y0": 255.70228576660156,
+        "x1": 287.8298034667969,
+        "y1": 265.8692932128906
+      }
+    ],
+    "<<mde_l>>": [
+      {
+        "page_index": 0,
+        "x0": 247.07174682617188,
+        "y0": 264.7043151855469,
+        "x1": 293.2198181152344,
+        "y1": 274.871337890625
+      }
+    ],
+    "<<mde_r>>": [
+      {
+        "page_index": 0,
+        "x0": 411.6701965332031,
+        "y0": 263.6452331542969,
+        "x1": 459.02813720703125,
+        "y1": 273.812255859375
+      }
+    ],
+    "<<mdr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 98.34762573242188,
+        "y0": 294.35809326171875,
+        "x1": 142.98081970214844,
+        "y1": 304.5251159667969
+      }
+    ],
+    "<<mdr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 259.774169921875,
+        "y0": 294.35809326171875,
+        "x1": 305.6172180175781,
+        "y1": 304.5251159667969
+      }
+    ],
+    "<<sf>>": [
+      {
+        "page_index": 0,
+        "x0": 398.9732971191406,
+        "y0": 293.2990417480469,
+        "x1": 426.30224609375,
+        "y1": 303.466064453125
+      }
+    ]
+  },
+  "bindings": {
+    "paciente_nombre": {
+      "type": "lr_singleline",
+      "left": "<<pn_l>>",
+      "right": "<<pn_r>>",
+      "source": "caso.paciente_nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "paciente_rut": {
+      "type": "lr_singleline",
+      "left": "<<pr_l>>",
+      "right": "<<pr_r>>",
+      "source": "caso.paciente_rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<dg_l>>",
+      "right": "<<dg_r>>",
+      "source": "caso.diagnostico",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "tratamiento": {
+      "type": "lr_singleline",
+      "left": "<<tr_l>>",
+      "right": "<<tr_r>>",
+      "source": "caso.tratamiento",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_atencion": {
+      "type": "lr_singleline",
+      "left": "<<fa_l>>",
+      "right": "<<fa_r>>",
+      "source": "caso.fecha_atencion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<fd_l>>",
+      "right": "<<fd_r>>",
+      "source": "caso.fecha_diagnostico",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_nombre": {
+      "type": "lr_singleline",
+      "left": "<<mdn_l>>",
+      "right": "<<mdn_r>>",
+      "source": "perfil.nombre",
+      "prefix": "Dr. ",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_especialidad": {
+      "type": "lr_singleline",
+      "left": "<<mde_l>>",
+      "right": "<<mde_r>>",
+      "source": "perfil.especialidad",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_rut": {
+      "type": "lr_singleline",
+      "left": "<<mdr_l>>",
+      "right": "<<mdr_r>>",
+      "source": "perfil.rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "sello_firma": {
+      "type": "stamp_sig",
+      "marker": "<<sf>>",
+      "box_w": 200,
+      "box_h": 80
+    }
+  },
+  "needs_cover": false,
+  "style": {
+    "font": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "cover_padding": 1.5,
+    "stamp_font_size": 9,
+    "stamp_y_ratio": 0.22,
+    "sig_h_ratio": 0.85,
+    "stamp_gap": 1.0
+  },
+  "version": 1,
+  "created_at": "2026-01-15T11:36:50"
+}

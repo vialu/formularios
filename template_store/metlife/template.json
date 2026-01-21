@@ -1,0 +1,307 @@
+{
+  "template_id": "metlife",
+  "name": "metlife",
+  "vendor": "metlife",
+  "pdf": {
+    "filename": "form.pdf",
+    "marked_filename": "form_marked.pdf"
+  },
+  "markers": [
+    "<<pn_l>>",
+    "<<pn_r>>",
+    "<<pr_l>>",
+    "<<pr_r>>",
+    "<<dg_l>>",
+    "<<dg_r>>",
+    "<<tr_l>>",
+    "<<tr_r>>",
+    "<<fa_l>>",
+    "<<fa_r>>",
+    "<<fd_l>>",
+    "<<fd_r>>",
+    "<<mdn_l>>",
+    "<<mdn_r>>",
+    "<<mde_l>>",
+    "<<mde_r>>",
+    "<<mdr_l>>",
+    "<<mdr_r>>",
+    "<<sf>>"
+  ],
+  "anchors": {
+    "<<pn_l>>": [
+      {
+        "page_index": 0,
+        "x0": -0.035763222724199295,
+        "y0": 509.13409423828125,
+        "x1": 40.83335494995117,
+        "y1": 519.9776000976562
+      }
+    ],
+    "<<pn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 226.8144073486328,
+        "y0": 509.6656494140625,
+        "x1": 268.973876953125,
+        "y1": 520.5091552734375
+      }
+    ],
+    "<<dg_l>>": [
+      {
+        "page_index": 0,
+        "x0": -0.03262711316347122,
+        "y0": 540.4898681640625,
+        "x1": 40.2401008605957,
+        "y1": 551.3333740234375
+      }
+    ],
+    "<<dg_r>>": [
+      {
+        "page_index": 0,
+        "x0": 288.45001220703125,
+        "y0": 532.5220336914062,
+        "x1": 330.0130920410156,
+        "y1": 543.3655395507812
+      }
+    ],
+    "<<tr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 288.9769287109375,
+        "y0": 541.0267333984375,
+        "x1": 325.8556213378906,
+        "y1": 551.8702392578125
+      }
+    ],
+    "<<tr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 570.5548706054688,
+        "y0": 541.5582885742188,
+        "x1": 608.72412109375,
+        "y1": 552.4017944335938
+      }
+    ],
+    "<<fa_l>>": [
+      {
+        "page_index": 0,
+        "x0": 266.1332092285156,
+        "y0": 510.728759765625,
+        "x1": 304.117919921875,
+        "y1": 521.572265625
+      }
+    ],
+    "<<fa_r>>": [
+      {
+        "page_index": 0,
+        "x0": 389.3908386230469,
+        "y0": 503.823974609375,
+        "x1": 428.6659240722656,
+        "y1": 514.66748046875
+      }
+    ],
+    "<<fd_l>>": [
+      {
+        "page_index": 0,
+        "x0": 412.7712097167969,
+        "y0": 510.19720458984375,
+        "x1": 451.2547302246094,
+        "y1": 521.0407104492188
+      }
+    ],
+    "<<fd_r>>": [
+      {
+        "page_index": 0,
+        "x0": 555.15380859375,
+        "y0": 510.728759765625,
+        "x1": 594.9278564453125,
+        "y1": 521.572265625
+      }
+    ],
+    "<<mdn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 327.7673034667969,
+        "y0": 564.2977294921875,
+        "x1": 377.2895202636719,
+        "y1": 575.1412353515625
+      }
+    ],
+    "<<mdn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 563.6483764648438,
+        "y0": 564.2977294921875,
+        "x1": 614.4610595703125,
+        "y1": 575.1412353515625
+      }
+    ],
+    "<<mde_l>>": [
+      {
+        "page_index": 0,
+        "x0": -0.027364831417798996,
+        "y0": 595.759765625,
+        "x1": 49.19124221801758,
+        "y1": 606.603271484375
+      }
+    ],
+    "<<mde_r>>": [
+      {
+        "page_index": 0,
+        "x0": 158.82774353027344,
+        "y0": 594.6966552734375,
+        "x1": 209.33670043945312,
+        "y1": 605.5401611328125
+      }
+    ],
+    "<<mdr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 95.06568145751953,
+        "y0": 563.3409423828125,
+        "x1": 142.66859436035156,
+        "y1": 574.1844482421875
+      }
+    ],
+    "<<mdr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 269.8564758300781,
+        "y0": 563.234619140625,
+        "x1": 318.749755859375,
+        "y1": 574.078125
+      }
+    ],
+    "<<sf>>": [
+      {
+        "page_index": 0,
+        "x0": 398.4323425292969,
+        "y0": 592.5704956054688,
+        "x1": 427.5796203613281,
+        "y1": 603.4140014648438
+      }
+    ]
+  },
+  "bindings": {
+    "paciente_nombre": {
+      "type": "lr_singleline",
+      "left": "<<pn_l>>",
+      "right": "<<pn_r>>",
+      "source": "caso.paciente_nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "paciente_rut": {
+      "type": "lr_singleline",
+      "left": "<<pr_l>>",
+      "right": "<<pr_r>>",
+      "source": "caso.paciente_rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<dg_l>>",
+      "right": "<<dg_r>>",
+      "source": "caso.diagnostico",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "tratamiento": {
+      "type": "lr_singleline",
+      "left": "<<tr_l>>",
+      "right": "<<tr_r>>",
+      "source": "caso.tratamiento",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_atencion": {
+      "type": "lr_singleline",
+      "left": "<<fa_l>>",
+      "right": "<<fa_r>>",
+      "source": "caso.fecha_atencion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<fd_l>>",
+      "right": "<<fd_r>>",
+      "source": "caso.fecha_diagnostico",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_nombre": {
+      "type": "lr_singleline",
+      "left": "<<mdn_l>>",
+      "right": "<<mdn_r>>",
+      "source": "perfil.nombre",
+      "prefix": "Dr. ",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_especialidad": {
+      "type": "lr_singleline",
+      "left": "<<mde_l>>",
+      "right": "<<mde_r>>",
+      "source": "perfil.especialidad",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_rut": {
+      "type": "lr_singleline",
+      "left": "<<mdr_l>>",
+      "right": "<<mdr_r>>",
+      "source": "perfil.rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "sello_firma": {
+      "type": "stamp_sig",
+      "marker": "<<sf>>",
+      "box_w": 200,
+      "box_h": 80
+    }
+  },
+  "needs_cover": false,
+  "style": {
+    "font": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "cover_padding": 1.5,
+    "stamp_font_size": 9,
+    "stamp_y_ratio": 0.22,
+    "sig_h_ratio": 0.85,
+    "stamp_gap": 1.0
+  },
+  "version": 1,
+  "created_at": "2026-01-15T11:29:32"
+}

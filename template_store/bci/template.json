@@ -1,0 +1,384 @@
+{
+  "template_id": "bci",
+  "name": "bci",
+  "vendor": "bci",
+  "pdf": {
+    "filename": "form.pdf",
+    "marked_filename": "form_marked.pdf"
+  },
+  "markers": [
+    "<<pn_l>>",
+    "<<pn_r>>",
+    "<<pr_l>>",
+    "<<pr_r>>",
+    "<<dg_l>>",
+    "<<dg_r>>",
+    "<<tr_l>>",
+    "<<tr_r>>",
+    "<<fa_l>>",
+    "<<fa_r>>",
+    "<<fd_l>>",
+    "<<fd_r>>",
+    "<<mdn_l>>",
+    "<<mdn_r>>",
+    "<<mde_l>>",
+    "<<mde_r>>",
+    "<<mdr_l>>",
+    "<<mdr_r>>",
+    "<<sf>>",
+    "<<ed_l>>",
+    "<<ed_r>>"
+  ],
+  "anchors": {
+    "<<pn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 113.2751235961914,
+        "y0": 115.73887634277344,
+        "x1": 169.4048614501953,
+        "y1": 130.63134765625
+      }
+    ],
+    "<<pn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 479.5142822265625,
+        "y0": 85.02188110351562,
+        "x1": 543.9959106445312,
+        "y1": 101.60668182373047
+      }
+    ],
+    "<<dg_l>>": [
+      {
+        "page_index": 0,
+        "x0": -0.8580710291862488,
+        "y0": 161.3557891845703,
+        "x1": 28.054309844970703,
+        "y1": 169.1405029296875
+      }
+    ],
+    "<<dg_r>>": [
+      {
+        "page_index": 0,
+        "x0": 221.49888610839844,
+        "y0": 160.50961303710938,
+        "x1": 251.33767700195312,
+        "y1": 168.29432678222656
+      }
+    ],
+    "<<tr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 92.16301727294922,
+        "y0": 281.5614929199219,
+        "x1": 142.81231689453125,
+        "y1": 296.4539489746094
+      }
+    ],
+    "<<tr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 563.8052978515625,
+        "y0": 285.8964538574219,
+        "x1": 595.9732055664062,
+        "y1": 295.0350036621094
+      }
+    ],
+    "<<fa_l>>": [
+      {
+        "page_index": 0,
+        "x0": 368.6021728515625,
+        "y0": 168.19253540039062,
+        "x1": 420.77044677734375,
+        "y1": 183.0850067138672
+      }
+    ],
+    "<<fa_r>>": [
+      {
+        "page_index": 0,
+        "x0": 500.6021728515625,
+        "y0": 310.19253540039062,
+        "x1": 500.77044677734375,
+        "y1": 330.0850067138672
+      }
+    ],
+    "<<fd_l>>": [
+      {
+        "page_index": 0,
+        "x0": 370.30126953125,
+        "y0": 235.0309600830078,
+        "x1": 423.15460205078125,
+        "y1": 249.92343139648438
+      }
+    ],
+    "<<fd_r>>": [
+      {
+        "page_index": 0,
+        "x0": 500.30126953125,
+        "y0": 310.0309600830078,
+        "x1": 500.15460205078125,
+        "y1": 330.92343139648438
+      }
+    ],
+    "<<mdn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 60.0312385559082,
+        "y0": 437.7633056640625,
+        "x1": 117.22478485107422,
+        "y1": 450.2864990234375
+      }
+    ],
+    "<<mdn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 381.3019714355469,
+        "y0": 430.99395751953125,
+        "x1": 439.9858093261719,
+        "y1": 443.5171813964844
+      }
+    ],
+    "<<mde_l>>": [
+      {
+        "page_index": 0,
+        "x0": 91.32844543457031,
+        "y0": 456.37884521484375,
+        "x1": 148.17132568359375,
+        "y1": 468.9020690917969
+      }
+    ],
+    "<<mde_r>>": [
+      {
+        "page_index": 0,
+        "x0": 289.1693420410156,
+        "y0": 456.37884521484375,
+        "x1": 347.5025329589844,
+        "y1": 468.9020690917969
+      }
+    ],
+    "<<mdr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 429.5082092285156,
+        "y0": 440.3017578125,
+        "x1": 484.4851989746094,
+        "y1": 452.8249816894531
+      }
+    ],
+    "<<mdr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 564.4868774414062,
+        "y0": 440.40594482421875,
+        "x1": 595.0095825195312,
+        "y1": 447.17523193359375
+      }
+    ],
+    "<<sf>>": [
+      {
+        "page_index": 0,
+        "x0": 501.3812255859375,
+        "y0": 458.07122802734375,
+        "x1": 535.043701171875,
+        "y1": 470.59442138671875
+      }
+    ],
+    "<<ed_l>>": [
+      {
+        "page_index": 0,
+        "x0": 499.8078918457031,
+        "y0": 118.61244201660156,
+        "x1": 530.1967163085938,
+        "y1": 126.73561096191406
+      }
+    ],
+    "<<ed_r>>": [
+      {
+        "page_index": 0,
+        "x0": 560.6947631835938,
+        "y0": 118.61244201660156,
+        "x1": 592.0502319335938,
+        "y1": 126.73561096191406
+      }
+    ]
+  },
+  "bindings": {
+    "paciente_nombre": {
+      "type": "lr_singleline",
+      "left": "<<pn_l>>",
+      "right": "<<pn_r>>",
+      "source": "caso.paciente_nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "paciente_rut": {
+      "type": "lr_singleline",
+      "left": "<<pr_l>>",
+      "right": "<<pr_r>>",
+      "source": "caso.paciente_rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<dg_l>>",
+      "right": "<<dg_r>>",
+      "source": "caso.diagnostico",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "edad": {
+      "type": "lr_singleline",
+      "left": "<<ed_l>>",
+      "right": "<<ed_r>>",
+      "source": "caso.edad",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "tratamiento": {
+      "type": "lr_singleline",
+      "left": "<<tr_l>>",
+      "right": "<<tr_r>>",
+      "source": "caso.tratamiento",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_atencion": {
+      "type": "lr_singleline",
+      "left": "<<fa_l>>",
+      "right": "<<fa_r>>",
+      "source": "caso.fecha_atencion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<fd_l>>",
+      "right": "<<fd_r>>",
+      "source": "caso.fecha_diagnostico",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_nombre": {
+      "type": "lr_singleline",
+      "left": "<<mdn_l>>",
+      "right": "<<mdn_r>>",
+      "source": "perfil.nombre",
+      "prefix": "Dr. ",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_especialidad": {
+      "type": "lr_singleline",
+      "left": "<<mde_l>>",
+      "right": "<<mde_r>>",
+      "source": "perfil.especialidad",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_rut": {
+      "type": "lr_singleline",
+      "left": "<<mdr_l>>",
+      "right": "<<mdr_r>>",
+      "source": "perfil.rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "sello_firma": {
+      "type": "stamp_sig",
+      "marker": "<<sf>>",
+      "box_w": 200,
+      "box_h": 80
+    }
+  },
+  "needs_cover": false,
+  "style": {
+    "font": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "cover_padding": 1.5,
+    "stamp_font_size": 9,
+    "stamp_y_ratio": 0.22,
+    "sig_h_ratio": 0.85,
+    "stamp_gap": 1.0
+  },
+  "ui": {
+    "fields": [
+      {
+        "key": "paciente_nombre",
+        "label": "Nombre paciente",
+        "type": "text",
+        "required": true
+      },
+      {
+        "key": "paciente_rut",
+        "label": "RUT paciente",
+        "type": "text",
+        "required": true
+      },
+      {
+        "key": "edad",
+        "label": "edad",
+        "type": "text",
+        "required": true
+      },
+      {
+        "key": "fecha_atencion",
+        "label": "Fecha atención",
+        "type": "date",
+        "required": true
+      },
+      {
+        "key": "fecha_diagnostico",
+        "label": "Fecha diagnóstico",
+        "type": "date",
+        "required": true
+      },
+      {
+        "key": "diagnostico",
+        "label": "Diagnóstico (1 línea)",
+        "type": "text",
+        "required": true
+      },
+      {
+        "key": "tratamiento",
+        "label": "Tratamiento (1 línea)",
+        "type": "text",
+        "required": false
+      }
+    ]
+  },
+  "version": 1,
+  "created_at": "2026-01-15T17:28:42"
+}

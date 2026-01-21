@@ -1,0 +1,316 @@
+{
+  "template_id": "bice",
+  "name": "BICE",
+  "vendor": "BICE",
+  "pdf": {
+    "filename": "form.pdf",
+    "marked_filename": "form_marked.pdf"
+  },
+  "markers": [
+    "<<pn_l>>",
+    "<<pn_r>>",
+    "<<pr_l>>",
+    "<<pr_r>>",
+    "<<dg_l>>",
+    "<<dg_r>>",
+    "<<tr_l>>",
+    "<<tr_r>>",
+    "<<fa_l>>",
+    "<<fa_r>>",
+    "<<fd_l>>",
+    "<<fd_r>>",
+    "<<mdn_l>>",
+    "<<mdn_r>>",
+    "<<mde_l>>",
+    "<<mde_r>>",
+    "<<mdr_l>>",
+    "<<mdr_r>>",
+    "<<sf>>"
+  ],
+  "anchors": {
+    "<<pn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 108.35652160644531,
+        "y0": 662.0460205078125,
+        "x1": 146.01681518554688,
+        "y1": 672.0381469726562
+      }
+    ],
+    "<<pn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 391.50103759765625,
+        "y0": 662.5775756835938,
+        "x1": 430.3503723144531,
+        "y1": 672.5697021484375
+      }
+    ],
+    "<<pr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 427.0887756347656,
+        "y0": 662.5775756835938,
+        "x1": 462.98046875,
+        "y1": 672.5697021484375
+      }
+    ],
+    "<<pr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 566.2723388671875,
+        "y0": 662.0460205078125,
+        "x1": 603.35302734375,
+        "y1": 672.0381469726562
+      }
+    ],
+    "<<dg_l>>": [
+      {
+        "page_index": 0,
+        "x0": 181.1514129638672,
+        "y0": 678.7350463867188,
+        "x1": 218.26214599609375,
+        "y1": 688.7271728515625
+      }
+    ],
+    "<<dg_r>>": [
+      {
+        "page_index": 0,
+        "x0": 572.131103515625,
+        "y0": 678.6287231445312,
+        "x1": 610.4308471679688,
+        "y1": 688.620849609375
+      }
+    ],
+    "<<tr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 92.43280029296875,
+        "y0": 754.313720703125,
+        "x1": 126.4159927368164,
+        "y1": 764.3058471679688
+      }
+    ],
+    "<<tr_r>>": [
+      {
+        "page_index": 0,
+        "x0": 549.812255859375,
+        "y0": 756.8649291992188,
+        "x1": 584.9844360351562,
+        "y1": 766.8570556640625
+      }
+    ],
+    "<<fa_l>>": [
+      {
+        "page_index": 0,
+        "x0": 313.4120788574219,
+        "y0": 699.7822265625,
+        "x1": 348.41448974609375,
+        "y1": 709.7743530273438
+      }
+    ],
+    "<<fa_r>>": [
+      {
+        "page_index": 0,
+        "x0": 423.3793029785156,
+        "y0": 699.7822265625,
+        "x1": 459.5707702636719,
+        "y1": 709.7743530273438
+      }
+    ],
+    "<<fd_l>>": [
+      {
+        "page_index": 0,
+        "x0": 191.770751953125,
+        "y0": 698.0814819335938,
+        "x1": 227.23277282714844,
+        "y1": 708.0736083984375
+      }
+    ],
+    "<<fd_r>>": [
+      {
+        "page_index": 0,
+        "x0": 298.54901123046875,
+        "y0": 698.71923828125,
+        "x1": 335.2001037597656,
+        "y1": 708.7113647460938
+      }
+    ],
+    "<<mdn_l>>": [
+      {
+        "page_index": 0,
+        "x0": 81.81330108642578,
+        "y0": 791.412109375,
+        "x1": 127.44731140136719,
+        "y1": 801.4042358398438
+      }
+    ],
+    "<<mdn_r>>": [
+      {
+        "page_index": 0,
+        "x0": 351.6757507324219,
+        "y0": 790.2428588867188,
+        "x1": 398.4988098144531,
+        "y1": 800.2349853515625
+      }
+    ],
+    "<<mde_l>>": [
+      {
+        "page_index": 0,
+        "x0": 87.66146087646484,
+        "y0": 806.8255004882812,
+        "x1": 133.0157012939453,
+        "y1": 816.817626953125
+      }
+    ],
+    "<<mde_r>>": [
+      {
+        "page_index": 0,
+        "x0": 341.05816650390625,
+        "y0": 804.6995239257812,
+        "x1": 387.6014709472656,
+        "y1": 814.691650390625
+      }
+    ],
+    "<<mdr_l>>": [
+      {
+        "page_index": 0,
+        "x0": 40.385223388671875,
+        "y0": 821.1759033203125,
+        "x1": 84.2506332397461,
+        "y1": 831.1680297851562
+      }
+    ],
+    "<<sf>>": [
+      {
+        "page_index": 0,
+        "x0": 469.6142883300781,
+        "y0": 814.7979736328125,
+        "x1": 496.4731140136719,
+        "y1": 824.7901000976562
+      }
+    ]
+  },
+  "bindings": {
+    "paciente_nombre": {
+      "type": "lr_singleline",
+      "left": "<<pn_l>>",
+      "right": "<<pn_r>>",
+      "source": "caso.paciente_nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "paciente_rut": {
+      "type": "lr_singleline",
+      "left": "<<pr_l>>",
+      "right": "<<pr_r>>",
+      "source": "caso.paciente_rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<dg_l>>",
+      "right": "<<dg_r>>",
+      "source": "caso.diagnostico",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "tratamiento": {
+      "type": "lr_singleline",
+      "left": "<<tr_l>>",
+      "right": "<<tr_r>>",
+      "source": "caso.tratamiento",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_atencion": {
+      "type": "lr_singleline",
+      "left": "<<fa_l>>",
+      "right": "<<fa_r>>",
+      "source": "caso.fecha_atencion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "fecha_diagnostico": {
+      "type": "lr_singleline",
+      "left": "<<fd_l>>",
+      "right": "<<fd_r>>",
+      "source": "caso.fecha_diagnostico",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_nombre": {
+      "type": "lr_singleline",
+      "left": "<<mdn_l>>",
+      "right": "<<mdn_r>>",
+      "source": "perfil.nombre",
+      "prefix": "Dr. ",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_especialidad": {
+      "type": "lr_singleline",
+      "left": "<<mde_l>>",
+      "right": "<<mde_r>>",
+      "source": "perfil.especialidad",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "medico_rut": {
+      "type": "lr_singleline",
+      "left": "<<mdr_l>>",
+      "right": "<<mdr_r>>",
+      "source": "perfil.rut",
+      "max_size": 10,
+      "min_size": 7,
+      "align": "left",
+      "pad_x": 1.0,
+      "height": 12.0
+    },
+    "sello_firma": {
+      "type": "stamp_sig",
+      "marker": "<<sf>>",
+      "box_w": 165,
+      "box_h": 58
+    }
+  },
+  "needs_cover": false,
+  "style": {
+    "font": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "cover_padding": 1.5,
+    "stamp_font_size": 9,
+    "stamp_y_ratio": 0.22,
+    "sig_h_ratio": 0.85,
+    "stamp_gap": 1.0
+  },
+  "version": 2,
+  "created_at": "2026-01-15T09:51:32"
+}
