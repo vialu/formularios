@@ -1,0 +1,967 @@
+{
+  "template_id": "fu_evaluacion_salud_2024",
+  "name": "FU Evaluación de Salud (Decreto 170/2010) - 2024",
+  "vendor": "Educación (NEE)",
+  "pdf": {
+    "filename": "form.pdf",
+    "marked_filename": "form_marked.pdf"
+  },
+  "markers": [
+    "<<chk_diag_discap>>",
+    "<<chk_examen_general>>",
+    "<<diagnostico_l>>",
+    "<<diagnostico_r>>",
+    "<<est_edad_l>>",
+    "<<est_edad_r>>",
+    "<<est_fnac_l>>",
+    "<<est_fnac_r>>",
+    "<<est_gen_f>>",
+    "<<est_gen_m>>",
+    "<<est_leng_habitual_l>>",
+    "<<est_leng_habitual_r>>",
+    "<<est_leng_origen_l>>",
+    "<<est_leng_origen_r>>",
+    "<<est_nac_l>>",
+    "<<est_nac_r>>",
+    "<<est_nom_l>>",
+    "<<est_nom_r>>",
+    "<<est_run_l>>",
+    "<<est_run_r>>",
+    "<<estado_salud_l>>",
+    "<<estado_salud_r>>",
+    "<<fecha_eval_l>>",
+    "<<fecha_eval_r>>",
+    "<<fecha_reeval_l>>",
+    "<<fecha_reeval_r>>",
+    "<<indicaciones_l>>",
+    "<<indicaciones_r>>",
+    "<<motivo_cual_l>>",
+    "<<motivo_cual_r>>",
+    "<<motivo_l>>",
+    "<<motivo_r>>",
+    "<<proc_escuela>>",
+    "<<proc_otro>>",
+    "<<proc_otro_txt_l>>",
+    "<<proc_otro_txt_r>>",
+    "<<proc_particular>>",
+    "<<proc_publica>>",
+    "<<prof_contacto_l>>",
+    "<<prof_contacto_r>>",
+    "<<prof_esp_l>>",
+    "<<prof_esp_r>>",
+    "<<prof_nom_l>>",
+    "<<prof_nom_r>>",
+    "<<prof_reg_l>>",
+    "<<prof_reg_r>>",
+    "<<prof_rut_l>>",
+    "<<prof_rut_r>>",
+    "<<sf>>"
+  ],
+  "anchors": {
+    "<<chk_diag_discap>>": [
+      {
+        "page_index": 0,
+        "x0": 195.64,
+        "y0": 169.88,
+        "x1": 207.92,
+        "y1": 182.16
+      }
+    ],
+    "<<chk_examen_general>>": [
+      {
+        "page_index": 0,
+        "x0": 46.24,
+        "y0": 169.88,
+        "x1": 58.52,
+        "y1": 182.16
+      }
+    ],
+    "<<diagnostico_l>>": [
+      {
+        "page_index": 0,
+        "x0": 46.69091796875,
+        "y0": 488.4447021484375,
+        "x1": 64.69091796875,
+        "y1": 498.4447021484375
+      }
+    ],
+    "<<diagnostico_r>>": [
+      {
+        "page_index": 0,
+        "x0": 528.6742553710938,
+        "y0": 488.4447021484375,
+        "x1": 536.6742553710938,
+        "y1": 498.4447021484375
+      }
+    ],
+    "<<est_edad_l>>": [
+      {
+        "page_index": 0,
+        "x0": 146.02850341796875,
+        "y0": 133.0216522216797,
+        "x1": 154.02850341796875,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_edad_r>>": [
+      {
+        "page_index": 0,
+        "x0": 215.35906982421875,
+        "y0": 133.0216522216797,
+        "x1": 223.35906982421875,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_fnac_l>>": [
+      {
+        "page_index": 0,
+        "x0": 50.8729248046875,
+        "y0": 133.53880310058594,
+        "x1": 58.8729248046875,
+        "y1": 144.53880310058594
+      }
+    ],
+    "<<est_fnac_r>>": [
+      {
+        "page_index": 0,
+        "x0": 120.20347595214844,
+        "y0": 133.53880310058594,
+        "x1": 128.20347595214844,
+        "y1": 144.53880310058594
+      }
+    ],
+    "<<est_gen_f>>": [
+      {
+        "page_index": 0,
+        "x0": 377.68,
+        "y0": 103.84,
+        "x1": 391.4,
+        "y1": 117.56
+      }
+    ],
+    "<<est_gen_m>>": [
+      {
+        "page_index": 0,
+        "x0": 414.04,
+        "y0": 103.84,
+        "x1": 427.76,
+        "y1": 117.56
+      }
+    ],
+    "<<est_leng_habitual_l>>": [
+      {
+        "page_index": 0,
+        "x0": 443.9527893066406,
+        "y0": 133.0216522216797,
+        "x1": 451.9527893066406,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_leng_habitual_r>>": [
+      {
+        "page_index": 0,
+        "x0": 540.3935546875,
+        "y0": 133.0216522216797,
+        "x1": 548.3935546875,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_leng_origen_l>>": [
+      {
+        "page_index": 0,
+        "x0": 335.86053466796875,
+        "y0": 132.98818969726562,
+        "x1": 343.86053466796875,
+        "y1": 143.98818969726562
+      }
+    ],
+    "<<est_leng_origen_r>>": [
+      {
+        "page_index": 0,
+        "x0": 426.27679443359375,
+        "y0": 132.98818969726562,
+        "x1": 434.27679443359375,
+        "y1": 143.98818969726562
+      }
+    ],
+    "<<est_nac_l>>": [
+      {
+        "page_index": 0,
+        "x0": 245.32125854492188,
+        "y0": 133.0216522216797,
+        "x1": 253.32125854492188,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_nac_r>>": [
+      {
+        "page_index": 0,
+        "x0": 314.6518249511719,
+        "y0": 133.0216522216797,
+        "x1": 322.6518249511719,
+        "y1": 144.0216522216797
+      }
+    ],
+    "<<est_nom_l>>": [
+      {
+        "page_index": 0,
+        "x0": 51.534088134765625,
+        "y0": 108.01313781738281,
+        "x1": 59.534088134765625,
+        "y1": 119.01313781738281
+      }
+    ],
+    "<<est_nom_r>>": [
+      {
+        "page_index": 0,
+        "x0": 340.75836181640625,
+        "y0": 108.01313781738281,
+        "x1": 348.75836181640625,
+        "y1": 119.01313781738281
+      }
+    ],
+    "<<est_run_l>>": [
+      {
+        "page_index": 0,
+        "x0": 442.9184875488281,
+        "y0": 108.19845581054688,
+        "x1": 450.9184875488281,
+        "y1": 119.19845581054688
+      }
+    ],
+    "<<est_run_r>>": [
+      {
+        "page_index": 0,
+        "x0": 539.3592529296875,
+        "y0": 108.19845581054688,
+        "x1": 547.3592529296875,
+        "y1": 119.19845581054688
+      }
+    ],
+    "<<estado_salud_l>>": [
+      {
+        "page_index": 0,
+        "x0": 47.72003173828125,
+        "y0": 250.0660400390625,
+        "x1": 65.72003173828125,
+        "y1": 500.0660400390625
+      }
+    ],
+    "<<estado_salud_r>>": [
+      {
+        "page_index": 0,
+        "x0": 529.703369140625,
+        "y0": 335.0660400390625,
+        "x1": 537.703369140625,
+        "y1": 500.0660400390625
+      }
+    ],
+    "<<fecha_eval_l>>": [
+      {
+        "page_index": 0,
+        "x0": 212.23529052734375,
+        "y0": 249.89752197265625,
+        "x1": 220.23529052734375,
+        "y1": 260.89752197265625
+      }
+    ],
+    "<<fecha_eval_r>>": [
+      {
+        "page_index": 0,
+        "x0": 329.76171875,
+        "y0": 249.89752197265625,
+        "x1": 337.76171875,
+        "y1": 260.89752197265625
+      }
+    ],
+    "<<fecha_reeval_l>>": [
+      {
+        "page_index": 0,
+        "x0": 372.468994140625,
+        "y0": 250.4146728515625,
+        "x1": 380.468994140625,
+        "y1": 261.4146728515625
+      }
+    ],
+    "<<fecha_reeval_r>>": [
+      {
+        "page_index": 0,
+        "x0": 489.99542236328125,
+        "y0": 250.4146728515625,
+        "x1": 497.99542236328125,
+        "y1": 261.4146728515625
+      }
+    ],
+    "<<indicaciones_l>>": [
+      {
+        "page_index": 0,
+        "x0": 47.7252197265625,
+        "y0": 580.9432983398438,
+        "x1": 65.7252197265625,
+        "y1": 703.9432983398438
+      }
+    ],
+    "<<indicaciones_r>>": [
+      {
+        "page_index": 0,
+        "x0": 529.7085571289062,
+        "y0": 593.9432983398438,
+        "x1": 537.7085571289062,
+        "y1": 603.9432983398438
+      }
+    ],
+    "<<motivo_l>>": [
+      {
+        "page_index": 0,
+        "x0": 25.0,
+        "y0": 164.39999389648438,
+        "x1": 73.47200012207031,
+        "y1": 175.39199829101562
+      }
+    ],
+    "<<motivo_r>>": [
+      {
+        "page_index": 0,
+        "x0": 525.6400146484375,
+        "y0": 164.39999389648438,
+        "x1": 575.0,
+        "y1": 175.39199829101562
+      }
+    ],
+    "<<proc_escuela>>": [
+      {
+        "page_index": 0,
+        "x0": 350.44,
+        "y0": 227.44,
+        "x1": 362.72,
+        "y1": 239.72
+      }
+    ],
+    "<<proc_otro>>": [
+      {
+        "page_index": 0,
+        "x0": 395.44,
+        "y0": 227.44,
+        "x1": 407.72,
+        "y1": 239.72
+      }
+    ],
+    "<<proc_otro_txt_l>>": [
+      {
+        "page_index": 0,
+        "x0": 350.0,
+        "y0": 224.39999389648438,
+        "x1": 456.5999755859375,
+        "y1": 235.39199829101562
+      }
+    ],
+    "<<proc_otro_txt_r>>": [
+      {
+        "page_index": 0,
+        "x0": 402.5119934082031,
+        "y0": 237.39999389648438,
+        "x1": 575.0,
+        "y1": 248.39199829101562
+      }
+    ],
+    "<<proc_particular>>": [
+      {
+        "page_index": 0,
+        "x0": 300.76,
+        "y0": 227.44,
+        "x1": 313.04,
+        "y1": 239.72
+      }
+    ],
+    "<<proc_publica>>": [
+      {
+        "page_index": 0,
+        "x0": 238.12,
+        "y0": 227.44,
+        "x1": 250.4,
+        "y1": 239.72
+      }
+    ],
+    "<<prof_contacto_l>>": [
+      {
+        "page_index": 0,
+        "x0": 50.450103759765625,
+        "y0": 250.4146728515625,
+        "x1": 58.450103759765625,
+        "y1": 261.4146728515625
+      }
+    ],
+    "<<prof_contacto_r>>": [
+      {
+        "page_index": 0,
+        "x0": 167.97654724121094,
+        "y0": 250.4146728515625,
+        "x1": 175.97654724121094,
+        "y1": 261.4146728515625
+      }
+    ],
+    "<<prof_esp_l>>": [
+      {
+        "page_index": 0,
+        "x0": 98.09297943115234,
+        "y0": 224.08119201660156,
+        "x1": 106.09297943115234,
+        "y1": 235.08119201660156
+      }
+    ],
+    "<<prof_esp_r>>": [
+      {
+        "page_index": 0,
+        "x0": 182.4847412109375,
+        "y0": 224.08119201660156,
+        "x1": 190.4847412109375,
+        "y1": 235.08119201660156
+      }
+    ],
+    "<<prof_nom_l>>": [
+      {
+        "page_index": 0,
+        "x0": 53.60267639160156,
+        "y0": 198.5143585205078,
+        "x1": 61.60267639160156,
+        "y1": 209.5143585205078
+      }
+    ],
+    "<<prof_nom_r>>": [
+      {
+        "page_index": 0,
+        "x0": 342.82696533203125,
+        "y0": 198.5143585205078,
+        "x1": 350.82696533203125,
+        "y1": 209.5143585205078
+      }
+    ],
+    "<<prof_reg_l>>": [
+      {
+        "page_index": 0,
+        "x0": 476.4638366699219,
+        "y0": 199.21682739257812,
+        "x1": 484.4638366699219,
+        "y1": 210.21682739257812
+      }
+    ],
+    "<<prof_reg_r>>": [
+      {
+        "page_index": 0,
+        "x0": 539.7698974609375,
+        "y0": 199.21682739257812,
+        "x1": 547.7698974609375,
+        "y1": 210.21682739257812
+      }
+    ],
+    "<<prof_rut_l>>": [
+      {
+        "page_index": 0,
+        "x0": 373.5799255371094,
+        "y0": 199.7545623779297,
+        "x1": 381.5799255371094,
+        "y1": 210.7545623779297
+      }
+    ],
+    "<<prof_rut_r>>": [
+      {
+        "page_index": 0,
+        "x0": 454.9594421386719,
+        "y0": 199.7545623779297,
+        "x1": 462.9594421386719,
+        "y1": 210.7545623779297
+      }
+    ],
+    "<<sf>>": [
+      {
+        "page_index": 0,
+        "x0": 420.10198974609375,
+        "y0": 718.6123046875,
+        "x1": 410.10198974609375,
+        "y1": 730.6123046875
+      }
+    ],
+    "<<motivo_cual_l>>": [
+      {
+        "page_index": 0,
+        "x0": 420.0157470703125,
+        "y0": 171.29074096679688,
+        "x1": 428.0157470703125,
+        "y1": 182.29074096679688
+      }
+    ],
+    "<<motivo_cual_r>>": [
+      {
+        "page_index": 0,
+        "x0": 537.5421752929688,
+        "y0": 171.29074096679688,
+        "x1": 545.5421752929688,
+        "y1": 182.29074096679688
+      }
+    ]
+  },
+  "needs_cover": false,
+  "style": {
+    "font": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "cover_padding": 1.5,
+    "stamp_font_size": 9,
+    "stamp_y_ratio": 0.22,
+    "sig_h_ratio": 0.85,
+    "stamp_gap": 1.0
+  },
+  "bindings": {
+    "estudiante_nombre": {
+      "type": "lr_singleline",
+      "left": "<<est_nom_l>>",
+      "right": "<<est_nom_r>>",
+      "source": "caso.estudiante_nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_run": {
+      "type": "lr_singleline",
+      "left": "<<est_run_l>>",
+      "right": "<<est_run_r>>",
+      "source": "caso.estudiante_run",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_fnac": {
+      "type": "lr_singleline",
+      "left": "<<est_fnac_l>>",
+      "right": "<<est_fnac_r>>",
+      "source": "caso.estudiante_fnac",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_edad": {
+      "type": "lr_singleline",
+      "left": "<<est_edad_l>>",
+      "right": "<<est_edad_r>>",
+      "source": "caso.estudiante_fnac",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0,
+      "transform": "age_years_months",
+      "transform_ref": "caso.fecha_evaluacion"
+    },
+    "estudiante_nacionalidad": {
+      "type": "lr_singleline",
+      "left": "<<est_nac_l>>",
+      "right": "<<est_nac_r>>",
+      "source": "caso.estudiante_nacionalidad",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_lengua_origen": {
+      "type": "lr_singleline",
+      "left": "<<est_leng_origen_l>>",
+      "right": "<<est_leng_origen_r>>",
+      "source": "caso.estudiante_lengua_origen",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_lengua_habitual": {
+      "type": "lr_singleline",
+      "left": "<<est_leng_habitual_l>>",
+      "right": "<<est_leng_habitual_r>>",
+      "source": "caso.estudiante_lengua_habitual",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estudiante_genero_f": {
+      "type": "checkbox",
+      "marker": "<<est_gen_f>>",
+      "source": "caso.estudiante_genero_f",
+      "glyph": "X",
+      "size": 11
+    },
+    "estudiante_genero_m": {
+      "type": "checkbox",
+      "marker": "<<est_gen_m>>",
+      "source": "caso.estudiante_genero_m",
+      "glyph": "X",
+      "size": 11
+    },
+    "chk_examen_general": {
+      "type": "checkbox",
+      "marker": "<<chk_examen_general>>",
+      "source": "caso.chk_examen_general",
+      "glyph": "X",
+      "size": 11
+    },
+    "chk_diag_discap": {
+      "type": "checkbox",
+      "marker": "<<chk_diag_discap>>",
+      "source": "caso.chk_diag_discap",
+      "glyph": "X",
+      "size": 11
+    },
+    "prof_nombre": {
+      "type": "lr_singleline",
+      "left": "<<prof_nom_l>>",
+      "right": "<<prof_nom_r>>",
+      "source": "perfil.nombre",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "prof_rut": {
+      "type": "lr_singleline",
+      "left": "<<prof_rut_l>>",
+      "right": "<<prof_rut_r>>",
+      "source": "perfil.rut",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "prof_reg": {
+      "type": "lr_singleline",
+      "left": "<<prof_reg_l>>",
+      "right": "<<prof_reg_r>>",
+      "source": "caso.prof_registro",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "prof_especialidad": {
+      "type": "lr_singleline",
+      "left": "<<prof_esp_l>>",
+      "right": "<<prof_esp_r>>",
+      "source": "perfil.especialidad",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "prof_contacto": {
+      "type": "lr_singleline",
+      "left": "<<prof_contacto_l>>",
+      "right": "<<prof_contacto_r>>",
+      "source": "caso.prof_contacto",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "proc_publica": {
+      "type": "checkbox",
+      "marker": "<<proc_publica>>",
+      "source": "caso.proc_publica",
+      "glyph": "X",
+      "size": 11
+    },
+    "proc_particular": {
+      "type": "checkbox",
+      "marker": "<<proc_particular>>",
+      "source": "caso.proc_particular",
+      "glyph": "X",
+      "size": 11
+    },
+    "proc_escuela": {
+      "type": "checkbox",
+      "marker": "<<proc_escuela>>",
+      "source": "caso.proc_escuela",
+      "glyph": "X",
+      "size": 11
+    },
+    "proc_otro": {
+      "type": "checkbox",
+      "marker": "<<proc_otro>>",
+      "source": "caso.proc_otro",
+      "glyph": "X",
+      "size": 11
+    },
+    "proc_otro_txt": {
+      "type": "lr_singleline",
+      "left": "<<proc_otro_txt_l>>",
+      "right": "<<proc_otro_txt_r>>",
+      "source": "caso.proc_otro_txt",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 14.0,
+      "pad_x": 1.0,
+      "dy": -10
+    },
+    "fecha_evaluacion": {
+      "type": "lr_singleline",
+      "left": "<<fecha_eval_l>>",
+      "right": "<<fecha_eval_r>>",
+      "source": "caso.fecha_evaluacion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "fecha_reevaluacion": {
+      "type": "lr_singleline",
+      "left": "<<fecha_reeval_l>>",
+      "right": "<<fecha_reeval_r>>",
+      "source": "caso.fecha_reevaluacion",
+      "format": "date_ddmmyyyy",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    },
+    "estado_salud": {
+      "type": "lr_multiline",
+      "left": "<<estado_salud_l>>",
+      "right": "<<estado_salud_r>>",
+      "source": "caso.estado_salud",
+      "size": 10,
+      "line_height": 12,
+      "height": 79.01,
+      "pad_x": 4.0
+    },
+    "diagnostico": {
+      "type": "lr_multiline",
+      "left": "<<diagnostico_l>>",
+      "right": "<<diagnostico_r>>",
+      "source": "caso.diagnostico_detallado",
+      "size": 10,
+      "line_height": 12,
+      "height": 37.55,
+      "pad_x": 4.0
+    },
+    "indicaciones": {
+      "type": "lr_multiline",
+      "left": "<<indicaciones_l>>",
+      "right": "<<indicaciones_r>>",
+      "source": "caso.indicaciones",
+      "size": 10,
+      "line_height": 12,
+      "height": 86.18,
+      "pad_x": 4.0
+    },
+    "sello_firma": {
+      "type": "stamp_sig",
+      "marker": "<<sf>>",
+      "box_w": 200,
+      "box_h": 80
+    },
+    "motivo_senale_cual": {
+      "type": "lr_singleline",
+      "left": "<<motivo_cual_l>>",
+      "right": "<<motivo_cual_r>>",
+      "source": "caso.motivo_senale_cual",
+      "max_size": 10,
+      "min_size": 7,
+      "height": 10.0,
+      "pad_x": 1.0
+    }
+  },
+  "ui": {
+    "fields": [
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_nombre",
+        "label": "Nombres y Apellidos",
+        "type": "text",
+        "required": true
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_genero_f",
+        "label": "Género: F",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_genero_m",
+        "label": "Género: M",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_run",
+        "label": "RUN",
+        "type": "text",
+        "required": true
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_fnac",
+        "label": "Fecha de nacimiento",
+        "type": "date",
+        "required": true
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_nacionalidad",
+        "label": "Nacionalidad",
+        "type": "text",
+        "required": false,
+        "default": "Chileno"
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_lengua_origen",
+        "label": "Lengua familia de origen",
+        "type": "text",
+        "required": false,
+        "default": "Español"
+      },
+      {
+        "section": "Identificación del estudiante",
+        "key": "estudiante_lengua_habitual",
+        "label": "Lengua que usa habitualmente",
+        "type": "text",
+        "required": false,
+        "default": "Español"
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "motivo_senale_cual",
+        "label": "Diagnóstico de discapacidad o déficit: señale cuál",
+        "type": "text",
+        "required": false
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "chk_examen_general",
+        "label": "Marcar: Examen general de salud",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "chk_diag_discap",
+        "label": "Marcar: Diagnóstico de discapacidad o déficit",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "estado_salud",
+        "label": "Examen del estado de salud general",
+        "type": "multiline",
+        "required": false,
+        "height_px": 83
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "diagnostico_detallado",
+        "label": "Diagnóstico (grado, etiología, pronóstico)",
+        "type": "multiline",
+        "required": true,
+        "height_px": 46
+      },
+      {
+        "section": "Motivo / diagnóstico",
+        "key": "indicaciones",
+        "label": "Indicaciones médicas",
+        "type": "multiline",
+        "required": true,
+        "height_px": 90
+      },
+      {
+        "section": "Profesional médico",
+        "key": "prof_registro",
+        "label": "N° Registro profesional",
+        "type": "text",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "prof_contacto",
+        "label": "Fono/E-mail contacto",
+        "type": "text",
+        "required": true,
+        "default": "perfil.correo"
+      },
+      {
+        "section": "Profesional médico",
+        "key": "proc_publica",
+        "label": "Procedencia: Salud pública",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "proc_particular",
+        "label": "Procedencia: Particular",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "proc_escuela",
+        "label": "Procedencia: Escuela",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "proc_otro",
+        "label": "Procedencia: Otro",
+        "type": "checkbox",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "proc_otro_txt",
+        "label": "Procedencia: Otro (especificar)",
+        "type": "text",
+        "required": false
+      },
+      {
+        "section": "Profesional médico",
+        "key": "fecha_evaluacion",
+        "label": "Fecha de evaluación",
+        "type": "date",
+        "required": true,
+        "default": "today"
+      },
+      {
+        "section": "Profesional médico",
+        "key": "fecha_reevaluacion",
+        "label": "Fecha de reevaluación",
+        "type": "date",
+        "required": false
+      }
+    ],
+    "rules": [
+      {
+        "type": "xor",
+        "keys": [
+          "estudiante_genero_f",
+          "estudiante_genero_m"
+        ],
+        "message": "Marca solo un género (F o M)."
+      },
+      {
+        "type": "at_least_one",
+        "keys": [
+          "proc_publica",
+          "proc_particular",
+          "proc_escuela",
+          "proc_otro"
+        ],
+        "message": "Marca al menos una procedencia."
+      }
+    ]
+  },
+  "version": 3
+}
